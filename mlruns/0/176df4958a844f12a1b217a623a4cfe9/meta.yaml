@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Radha/OneDrive/Desktop/Multiple%20Disease%20prediction%20system/mlruns/0/176df4958a844f12a1b217a623a4cfe9/artifacts
+end_time: 1749539429722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 176df4958a844f12a1b217a623a4cfe9
+run_name: Parkinsons Model
+run_uuid: 176df4958a844f12a1b217a623a4cfe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749539420890
+status: 3
+tags: []
+user_id: Radha

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Radha/OneDrive/Desktop/Multiple%20Disease%20prediction%20system/mlruns/0/98aa709b88924d2389e1330e0eb0878f/artifacts
+end_time: 1749543263111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98aa709b88924d2389e1330e0eb0878f
+run_name: clean-skink-621
+run_uuid: 98aa709b88924d2389e1330e0eb0878f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749543252619
+status: 3
+tags: []
+user_id: Radha

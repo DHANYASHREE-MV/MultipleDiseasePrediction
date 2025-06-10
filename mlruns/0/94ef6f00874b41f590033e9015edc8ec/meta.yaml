@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Radha/OneDrive/Desktop/Multiple%20Disease%20prediction%20system/mlruns/0/94ef6f00874b41f590033e9015edc8ec/artifacts
+end_time: 1749541975776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94ef6f00874b41f590033e9015edc8ec
+run_name: Heart Pipeline
+run_uuid: 94ef6f00874b41f590033e9015edc8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749541957379
+status: 3
+tags: []
+user_id: Radha

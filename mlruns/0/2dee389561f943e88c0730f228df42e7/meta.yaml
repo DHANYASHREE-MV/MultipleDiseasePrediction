@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Radha/OneDrive/Desktop/Multiple%20Disease%20prediction%20system/mlruns/0/2dee389561f943e88c0730f228df42e7/artifacts
+end_time: 1749543307237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dee389561f943e88c0730f228df42e7
+run_name: Diabetes Pipeline
+run_uuid: 2dee389561f943e88c0730f228df42e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749543298625
+status: 3
+tags: []
+user_id: Radha
