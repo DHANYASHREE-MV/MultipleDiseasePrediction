@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+streamlit-lottie
+scikit-learn
+requests
+mlflow
+mlflow ui
+mlflow[pipelines]

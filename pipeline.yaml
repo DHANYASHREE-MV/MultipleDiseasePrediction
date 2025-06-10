@@ -1,0 +1,20 @@
+template: classification/v1
+
+data:
+  location: ./data/diabetes.csv
+  target: Outcome
+
+steps:
+  split:
+    test_size: 0.2
+    random_state: 42
+  train:
+    estimator: sklearn.ensemble.RandomForestClassifier
+    estimator_params:
+      n_estimators: 100
+      random_state: 42
+  evaluate:
+    metrics:
+      - accuracy_score
+      - precision_score
+      - recall_score
